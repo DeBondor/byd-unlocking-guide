@@ -20,6 +20,9 @@
 
 Aby odblokować system, musisz najpierw zainstalować wersję oprogramowania, która posiada lukę umożliwiającą dostęp przez protokół ADB.
 
+> [!NOTE]
+> Jeśli podczas tego procesu w pojeździe znajduje się karta SD, pojawi się komunikat o błędzie; dlatego należy wyjąć kartę SD i rozpocząć proces bez włożonej karty.
+
 ### 1. Przygotowanie
 * **Weryfikacja wersji**: Upewnij się, że Twoja obecna wersja zaczyna się od `13.1.33.XXXX` (np. `13.1.33.2511`). Sprawdzisz to w: `Ustawienia` ➔ `System` ➔ `Wersja`.
 * **Pobieranie**: Pobierz wersję [13.1.33.2404](https://drive.google.com/file/d/1awJk8OgAMT_z3DHve5cFFUzfH7viOVfT/view?usp=sharing), która umożliwia odblokowanie.
