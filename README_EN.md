@@ -20,6 +20,9 @@
 
 To unlock the system, you must first install a software version that contains a vulnerability allowing ADB protocol access.
 
+> [!NOTE]
+> If an SD card is in the vehicle during this procedure, an error message will appear; therefore, you should remove the SD card and start the procedure with the card removed.
+
 ### 1. Preparation
 * **Version Verification**: Ensure your current version starts with `13.1.33.XXXX` (e.g., `13.1.33.2511`). Check this in: `Settings` ➔ `System` ➔ `Version`.
 * **Download**: Download version [13.1.33.2404](https://drive.google.com/file/d/1awJk8OgAMT_z3DHve5cFFUzfH7viOVfT/view?usp=sharing), which enables the unlocking.
