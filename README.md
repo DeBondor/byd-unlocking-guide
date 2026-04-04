@@ -1,4 +1,4 @@
-# 🚗 BYD Unlocking Guide (Han / Atto 3 / Seal / Seal U / DM-i)
+# 🚗 BYD Unlocking Guide (Han / Seal / Seal U / DM-i)
 
 > [!WARNING]
 > Nie biorę odpowiedzialności za żadne działania podejmowane w pojeździe BYD; użytkownik działa na własną odpowiedzialność. Nie instaluj plików APK z niepewnych źródeł. Pamiętaj, że modyfikacje systemu mogą wpłynąć na gwarancję producenta w zakresie inforozrywki.
