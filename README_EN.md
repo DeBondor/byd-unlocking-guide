@@ -1,4 +1,4 @@
-# 🚗 BYD Unlocking Guide (Han / Atto 3 / Seal / Seal U / DM-i)
+# 🚗 BYD Unlocking Guide (Han / Seal / Seal U / DM-i)
 
 > [!WARNING]
 > **DISCLAIMER:** I take no responsibility for any actions taken on your BYD vehicle; you proceed at your own risk. Do not install APK files from untrusted sources. Modifying the system may void your manufacturer's warranty regarding the infotainment system.
