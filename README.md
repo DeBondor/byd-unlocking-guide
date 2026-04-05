@@ -7,7 +7,7 @@
 * **Polska Wersja** (bieżąca)
 * [English Version (README_EN.md)](README_EN.md)
 
-**✅ Kompatybilne modele:** Ta metoda działa wyłącznie na modelach (Han, Atto 3, Seal, Seal U oraz DM-i).
+**✅ Kompatybilne modele:** Ta metoda działa wyłącznie na modelach (Han, Seal, Seal U oraz DM-i).
 
 ---
 
