@@ -11,7 +11,7 @@
 
 ---
 
-**📅 Stan na:** 28.03.2026  
+**📅 Stan na:** 13.05.2026  
 **💡 Inspiracja:** Abdulkadir Kartal
 
 ---
