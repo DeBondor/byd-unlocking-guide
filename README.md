@@ -83,7 +83,7 @@ Aby odblokować system, musisz najpierw zainstalować wersję oprogramowania, kt
 * 🌌 [AuroraStore](https://drive.google.com/file/d/1leQ-cinJ0gSUhrYMBQZQlGwhv2g1pXsM/view?usp=sharing): Bezpieczny zamiennik Sklepu Play.
 * 🛠 [MicroG](https://drive.google.com/file/d/1tY5HX0U_q7cOxFQpiPefZWRIWTlG6NQi/view?usp=sharing): Niezbędne do działania usług Google. (W ustawieniach wyłącz rejestrację urządzenia, zaloguj się i wyłącz AutoStart w narzędziach systemowych).
 * 📺 [Revanced Manager](https://drive.google.com/file/d/1zjbrAkGXbFAT36nsOZx98l_E_BD44Mvz/view?usp=sharing): YouTube bez reklam i z funkcją odtwarzania w tle.
-* 📺 [DashCast](https://github.com/Kiroha/byd-dashcast): Pozwala wyświetlić dowolną aplikację z centralnego ekranu BYD na cyfrowym zestawie wskaźników.
+* 🕰️ [DashCast](https://github.com/Kiroha/byd-dashcast): Pozwala wyświetlić dowolną aplikację z centralnego ekranu BYD na cyfrowym zestawie wskaźników.
 
 ---
 
