@@ -11,7 +11,7 @@
 
 ---
 
-**📅 Status as of:** 26.05.2026  
+**📅 Status as of:** 10.06.2026  
 **💡 Inspiration:** Abdulkadir Kartal
 
 ---
@@ -81,6 +81,7 @@ To unlock the system, you must first install a software version that contains a 
 * 🌌 [AuroraStore](https://drive.google.com/file/d/1leQ-cinJ0gSUhrYMBQZQlGwhv2g1pXsM/view?usp=sharing): A safe alternative to the Google Play Store.
 * 🛠 [MicroG](https://drive.google.com/file/d/1tY5HX0U_q7cOxFQpiPefZWRIWTlG6NQi/view?usp=sharing): Required for Google services. (In settings: disable device registration, log in, and disable AutoStart in system tools).
 * 📺 [Revanced Manager](https://drive.google.com/file/d/1zjbrAkGXbFAT36nsOZx98l_E_BD44Mvz/view?usp=sharing): YouTube without ads and with background playback.
+* 📺 [DashCast](https://github.com/Kiroha/byd-dashcast): It allows you to display any app from the BYD central screen on the digital instrument cluster.
 
 ---
 
