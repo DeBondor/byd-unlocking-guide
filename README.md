@@ -92,6 +92,6 @@ Aby odblokować system, musisz najpierw zainstalować wersję oprogramowania, kt
 Po udanym odblokowaniu i zainstalowaniu potrzebnych aplikacji, możesz bezpiecznie wrócić do nowszej wersji systemu. Twoje aplikacje pozostaną zainstalowane.
 
 1. **Zalecane wersje**:
-   * **[13.1.33.2511](https://drive.google.com/file/d/1TmPu7NKAuGVmCHNG6iFmebZRe3Pk1XRa/view?usp=sharing)** – Najbardziej stabilna wersja.
+   * ⭐ **[13.1.33.2511](https://drive.google.com/file/d/1TmPu7NKAuGVmCHNG6iFmebZRe3Pk1XRa/view?usp=sharing)** – Najbardziej stabilna wersja. 
    * **[13.1.33.2602](https://drive.google.com/file/d/1E02Lzp_Gccb9rsEMeGqV3jNhllysXCH2/view?usp=sharing)** – Najnowsza wersja (zawiera polską nawigację, lecz nie zalecam ze względu na stabilność).
 2. **Procedura**: Przygotuj pendrive analogicznie jak w Sekcji A i wybierz na ekranie opcję `Upgrade OTG`. Podczas aktualizacji (**ok. 15 minut**) nie dotykaj żadnych przycisków.
