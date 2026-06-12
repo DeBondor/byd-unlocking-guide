@@ -11,7 +11,7 @@
 
 ---
 
-**📅 Stan na:** 10.06.2026  
+**📅 Stan na:** 12.06.2026  
 **💡 Inspiracja:** Abdulkadir Kartal
 
 ---
@@ -84,7 +84,7 @@ Aby odblokować system, musisz najpierw zainstalować wersję oprogramowania, kt
 * 🛠 [MicroG](https://drive.google.com/file/d/1tY5HX0U_q7cOxFQpiPefZWRIWTlG6NQi/view?usp=sharing): Niezbędne do działania usług Google. (W ustawieniach wyłącz rejestrację urządzenia, zaloguj się i wyłącz AutoStart w narzędziach systemowych).
 * 📺 [Revanced Manager](https://drive.google.com/file/d/1zjbrAkGXbFAT36nsOZx98l_E_BD44Mvz/view?usp=sharing): YouTube bez reklam i z funkcją odtwarzania w tle.
 * 🕰️ [DashCast](https://github.com/Kiroha/byd-dashcast): Pozwala wyświetlić dowolną aplikację z centralnego ekranu BYD na cyfrowym zestawie wskaźników.
-
+* 🎛️ [Commander](https://drive.google.com/file/d/1hZWHlQaiR-d2y7JRmUA4WbCI6YDYJiFg/view?usp=sharing): Automatyzacje, zdalne sterowanie pojazdem.
 ---
 
 ## ⬆️ SEKCJA D: Aktualizacja Systemu (OTA)
