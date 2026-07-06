@@ -1,4 +1,4 @@
-# 🚗 BYD Unlocking Guide (Han / Atto 2 / Seal / Seal U / DM-i)
+# 🚗 BYD Unlocking Guide (Han / Atto 2; Atto 2 DM-i / Seal / Seal U; Seal U DM-i / Sealion 5 DM-i)
 
 > [!WARNING]
 > Nie biorę odpowiedzialności za żadne działania podejmowane w pojeździe BYD; użytkownik działa na własną odpowiedzialność. Nie instaluj plików APK z niepewnych źródeł. Pamiętaj, że modyfikacje systemu mogą wpłynąć na gwarancję producenta w zakresie inforozrywki.
@@ -7,11 +7,11 @@
 * **Polska Wersja** (bieżąca)
 * [English Version (README_EN.md)](README_EN.md)
 
-**✅ Kompatybilne modele:** Ta metoda działa wyłącznie na modelach (Han, Atto 2, Seal, Seal U oraz DM-i).
+**✅ Kompatybilne modele:** Ta metoda działa wyłącznie w wersji 13.1.33. Jeśli Twój pojazd ma tę wersję, możesz go odblokować! Przykłady pojazdów z kompatybilną wersją: Han, Atto 2/DM-i, Seal, Seal U/DM-i, Sealion 5 DM-i.
 
 ---
 
-**📅 Stan na:** 12.06.2026  
+**📅 Stan na:** 06.07.2026  
 **💡 Inspiracja:** Abdulkadir Kartal
 
 ---
