@@ -92,5 +92,5 @@ After successfully unlocking and installing your apps, you can safely update bac
 
 1. **Recommended Versions**:
    * **[13.1.33.2511](https://drive.google.com/file/d/1TmPu7NKAuGVmCHNG6iFmebZRe3Pk1XRa/view?usp=sharing)** – Most stable version.
-   * **[13.1.33.2602](https://drive.google.com/file/d/1E02Lzp_Gccb9rsEMeGqV3jNhllysXCH2/view?usp=sharing)** – Latest version (includes navigation improvements, though stability may vary).
+   * **[13.1.33.2602](https://drive.google.com/file/d/1E02Lzp_Gccb9rsEMeGqV3jNhllysXCH2/view?usp=sharing)** – Latest version (It includes navigation improvements, but I don't recommend it because the GPS sensor isn't working, which causes apps that use GPS to crash).
 2. **Procedure**: Prepare the USB drive exactly as in Section A and select the `Upgrade OTG` option on the screen. During the update (**approx. 15 minutes**), do not press any buttons.
