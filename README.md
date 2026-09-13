@@ -38,6 +38,7 @@ Aby odblokować system, musisz najpierw zainstalować wersję oprogramowania, kt
 2. Gdy na ekranie pojawi się **Kod QR**, przytrzymaj przez **10 sekund** jednocześnie:
    * **Lewą strzałkę** na kierownicy (powrót).
    * **Przycisk głośności** (pokrętło/przycisk obok selektora biegów).
+   <img width="1187" height="279" alt="image" src="https://github.com/user-attachments/assets/ec2b5cce-7caa-4fa8-bfb6-ef9648c7887c" />
 3. Proces trwa zazwyczaj **10–20 minut**. Po zakończeniu i ponownym uruchomieniu ekranu wyjmij pendrive.
 
 ---
@@ -53,6 +54,8 @@ Aby odblokować system, musisz najpierw zainstalować wersję oprogramowania, kt
 6. W menu `Test Tools` zjedź na dół i zaznacz:
    * ✅ `Wireless adb debug switch`
    * ✅ `Debug mode when USB is connected`
+   <img width="748" height="291" alt="image" src="https://github.com/user-attachments/assets/44ff06ae-b885-4b87-9c77-40ccf7541614" />
+   <img width="967" height="291" alt="image" src="https://github.com/user-attachments/assets/7bfefb51-9f4d-4612-a54a-bc9564f79ee1" />
 
 ---
 
@@ -61,6 +64,7 @@ Aby odblokować system, musisz najpierw zainstalować wersję oprogramowania, kt
 ### 1. Metoda bezprzewodowa (Aplikacja Bugjaeger)
 1. Udostępnij **Hotspot WiFi** z telefonu i połącz z nim auto.
 2. W ustawieniach WiFi auta kliknij ikonę `i` przy nazwie sieci i zanotuj **Adres IP** pojazdu.
+   <img width="893" height="306" alt="image" src="https://github.com/user-attachments/assets/62e98164-78c2-4d0c-ba52-881b3119a776" />
 3. W aplikacji **Bugjaeger** (na telefonie) kliknij ikonę wtyczki (`+`), wpisz IP auta oraz port `5555`, a następnie kliknij `Connect`.
 4. **Zaakceptuj połączenie** na ekranie auta (zaznacz `Always allow` i kliknij `Allow`).
 5. Zainstaluj plik [PackageInstallerUnlocker.apk](https://drive.google.com/file/d/1aoWeo-XZFAiJkM3-cptNwGVxZuNtRbis/view?usp=drive_link). Od tego momentu system będzie pozwalał na instalację plików APK.
